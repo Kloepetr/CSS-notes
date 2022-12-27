@@ -1,1 +1,7 @@
 CSS  usage :                   controls the presentation of a webpage
+CSS stands for:                Cascading Style Sheets
+CSS styles are called:         properties
+select element:                goes inside style
+semi colon in style usage:     give commands a break
+squigly brackets:              {}
+styling background color:      background-color: (specify color);        
