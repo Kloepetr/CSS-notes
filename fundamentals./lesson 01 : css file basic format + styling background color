@@ -1,0 +1,29 @@
+-CSS stands for Cascading Style Sheets
+-used to format a markup language
+-add styles to HTML without changing HTML
+-adding <style></style>element inbetween head tags
+-we are not editing content, its just for visual satisfaction
+-all css codes goes inside style attribute for reference 
+-file needs to be saved as html file
+-select element goes inside style, no need to enter <> (angle bracket) 
+-need open and closing squiggly bracket {} for content inside selected element
+-styles are called properties
+-semi colon gives a break in between commands, meaning browser is ready to move on to the next styling command
+
+<!doctype html>
+<html>
+<head>
+<style>
+h1 {
+
+background-color: (specify color);    (changing background color) 
+
+}
+</style>
+</head>
+<h1> enter title </h1>
+<p> enter paragraph </p>
+<h2> enter smaller title </h2>
+<p> enter another paragraph </p>
+</body>
+</html>
