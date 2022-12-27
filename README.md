@@ -14,6 +14,10 @@ current goal is to finish the basis of html and css by June 2023 </p>
 - PROJECTS </a>
 <br>
 <br>
+<a href="https://github.com/Kloepetr/CSS-notes/tree/main/CSS%20layout" a>
+- LAYOUTS </a>
+<br>
+<br>
 <a href="https://github.com/Kloepetr/CSS-notes/blob/main/terms" a>
 - WORD BANK </a>
 </body>
