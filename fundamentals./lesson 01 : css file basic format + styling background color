@@ -10,6 +10,7 @@
 -styles are called properties
 -semi colon gives a break in between commands, meaning browser is ready to move on to the next styling command
 
+
 <!doctype html>
 <html>
 <head>
