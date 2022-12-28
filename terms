@@ -5,3 +5,6 @@ select element:                goes inside style
 semi colon in style usage:     give commands a break
 squigly brackets:              {}
 styling background color:      background-color: (specify color);        
+adjust font size:              font-size: x(px);
+adjust font color:             color: (specify color);
+adjust font style:             font-family: font style
