@@ -1,0 +1,27 @@
+-color property for font changing
+-changing font size : font-size: x(px);
+-changing font family : font-family : font style
+
+
+
+<!doctype html>
+<html>
+<head>
+<style>
+h1 {
+
+background-color: (specify color);    (changing background color) 
+}
+p {
+color: (specify color); (changing font color)
+font-size: (number)px(pixels);
+font-family: font style
+}
+</style>
+</head>
+<h1> enter title </h1>
+<p> enter paragraph </p>
+<h2> enter smaller title </h2>
+<p> enter another paragraph </p>
+</body>
+</html>
