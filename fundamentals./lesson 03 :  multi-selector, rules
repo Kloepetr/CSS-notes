@@ -1,0 +1,25 @@
+- add multple sector to a rule
+-use comma before { to add command to multple headers) h1, h2
+
+
+<!doctype html>
+<html>
+<head>
+<style>
+h1,h2 {
+
+background-color: (specify color);    (changing background color) 
+}
+p {
+color: (specify color); (changing font color)
+font-size: (number)px(pixels);
+font-family: font style
+}
+</style>
+</head>
+<h1> enter title </h1>
+<p> enter paragraph </p>
+<h2> enter smaller title </h2>
+<p> enter another paragraph </p>
+</body>
+</html>
