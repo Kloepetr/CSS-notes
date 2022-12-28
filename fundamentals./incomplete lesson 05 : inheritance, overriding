@@ -1,0 +1,27 @@
+-HTML is root element, which contains nested elements such as <head> and <body>
+-content goes inside <body>, however, CSS style goes in <head>
+-Body is made up of elements such as H1, p, p, H2
+-overide only works if child element doesnt have existing command
+
+<!doctype html>
+<html>
+<head>
+<style>
+body {
+color: green;
+}
+h1,h2 {
+border-bottom: 1px solid black;
+}
+p{
+font-size: 25px;
+font-family: helvetica;
+}
+</style>
+</head>
+<h1> random </h1>
+<p> f </p>
+<h2> bruh <h2>
+<p> a </p>
+</body>
+</html>
