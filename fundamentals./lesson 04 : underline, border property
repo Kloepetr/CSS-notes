@@ -1,0 +1,11 @@
+-border-bottom: (enter number)px(pixel) solid black;
+-an underline for text, 
+-used in between {}
+
+
+
+-border: (enter number)px(pixel) solid black;
+-create box around selected text
+used in between {}
+
+
