@@ -9,3 +9,18 @@
 used in between {}
 
 
+<!doctype html>
+<html>
+<head>
+<style>
+h1, h2 {
+border-bottom: "enter number"px (enter color)
+}
+
+p {
+color : red;
+font-size: 25px;
+}
+</style>
+</head>
+</html>
